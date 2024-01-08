@@ -16,6 +16,7 @@ lưu ý:
     + Sử dụng danh từ 
     + id trong 1 thẻ chỉ có 1
     + class trong 1 thẻ html sẽ có nhiều (Mỗi class sẽ cách nhau bởi khoảng trắng)
+    - inline > id > class > element HTML in css
 
 Nguyên tắc với selector ~
 
